@@ -1,10 +1,14 @@
 body{
-    
+    background-color:#030;
 }
 #content{
     width:800px;
     margin:10px auto;
+    border:3px solid black;
+    border-radius:10px;
+    padding:20px;
+    background-color:white;
 }
 #myButton{
-    background-color:red;
+    background-color:green;
 }
